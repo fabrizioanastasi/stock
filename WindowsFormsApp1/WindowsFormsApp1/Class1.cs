@@ -8,6 +8,6 @@ namespace WindowsFormsApp1
 {
     public class Class1
     {
-        bool flasg = true;
+        
     }
 }
